@@ -15,11 +15,8 @@ header {
 header h1 {
     display: inline; 
     font-size: 48px;
-    margin: 0; 
-}
-
-header h1 a { 
-    color: #d9dcd6;
+    margin: 0;
+    color: #d9dcd6; 
 }
 
 header nav { 
